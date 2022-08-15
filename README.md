@@ -138,9 +138,10 @@ or
 😊
 
 <br />
-# Table
+# Table  
+
 | Name | Email | Mobile No |
-|-----|-----|-----|
+| ----- | ----- | ----- |
 | Md Ajij | mdajij@gmail.com | 9735612987 |
 
 
