@@ -131,8 +131,10 @@ http://www.helpheadmaster.wordpress.com
 
 or 
 
-<img src="ajij.jpg" width="400" title = "profile image of Ajij" />
- # emoji adding
+<img src="ajij.jpg" width="400" title = "profile image of Ajij" />  
+
+<br />
+# Emoji adding
 
 
 
