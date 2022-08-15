@@ -97,3 +97,42 @@ console.log(numTotal);
 - Item2
 - Item3
 
+<br/>
+
+# Task List
+- [x] Task1
+- [x] Task2
+- [] Task3
+<br/>
+# Automatic Link 
+http://www.helpheadmaster.wordpress.com
+
+# Markdown Link Syntext:-
+
+[Help Headmaster website](http://www.helpheadmaster.wordpress.com)
+
+
+<hr/>
+[Help Headmastet website][mywebsiteLink]
+[Facebook Page][myFaceBookLink]
+  
+
+<!--All Links are here-->
+[mywebsiteLink]: http://www.helpheadmaster.wordpress.com
+[myFaceBookLink]: http://www.facebook.com/mdaziz
+<hr/>
+
+
+# Disabled Link
+`http://www.helpheadmaster.wordpress.com`
+
+# Image Syntax
+![profile Picture of Ajij](Image er path)
+
+or 
+
+<img src="ajij.jpg" width="400" title = "profile image of Ajij" />
+ # emoji adding
+
+
+
